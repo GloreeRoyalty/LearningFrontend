@@ -1,0 +1,35 @@
+h1{
+color:navy;
+font-family: 'Trebuchet MS';
+text-align: center;
+border: 4px;
+border-color: white;
+
+}
+body{
+    background-color: rgb(237, 175, 121);
+
+}
+h2{
+    color: whitesmoke;
+}
+p.copyright{
+    color: aliceblue;
+text-align: right;
+}
+article{
+    font-size: 20px;
+    color:white;
+    text-decoration: underline;
+    font-family: 'Lucida Sans';
+}
+input[type="email"]{
+    width: 25%;
+    border-style: hidden;
+    border-color: ghostwhite; 
+}
+p.one{
+    column-count: 6;
+    column-gap: 5px;
+    row-gap: 60%;
+}
